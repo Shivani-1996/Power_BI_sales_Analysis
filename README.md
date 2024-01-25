@@ -1,4 +1,4 @@
-# Powewr_BI_sales_Analysis
+# Power_BI_sales_Analysis
 Title: Sales Insights Dashboard for Computer Hardware Business
 Analyzing sales data by data cleaning, data merging and visualizing it using Power BI
 Problem Statement:
